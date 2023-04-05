@@ -1,16 +1,14 @@
-# FormulaTalenteKaiser.Com
-# Donation to help my Racing Career
-#h1 Heading
-##h2 Heading
-###h3 Heading
-####h4 Heading 
-#####h5 Heading
-######h6 Heading
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading 
+##### h5 Heading
+###### h6 Heading
 
 ## Horizontal Rule
 
 
-_______________
+______________
 
  
 # Emphasis
@@ -23,6 +21,19 @@ __This is bold Text__
 
 *Because This is italic Text**
 __ Because This is italic Text__
+
+
+**Plan bold Text**
+__Plan bold Text__
+
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading 
+##### h5 Heading
+###### h6 Heading
+
+
 
 
 ##  Blackquotes
